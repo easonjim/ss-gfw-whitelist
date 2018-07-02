@@ -12,3 +12,4 @@ https://app.hiwifi.com/store.php?m=plugins&a=install&rid=rXXXXXXXXX&sid=XXXXXXXX
 163116535
 ```
 - 然后访问安装配置点击完成后才会下载
+- 可能需要的操作：开发者模式
