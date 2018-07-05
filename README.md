@@ -1,8 +1,8 @@
 # ss-gfw-whitelist
-GFW的列表，不包含任何表达式，纯网址  
-供hiwifi-ss插件的白名单用，后续自行添加  
-不直接使用官方的列表：https://github.com/gfwlist/gfwlist  
+GFW的列表，不包含任何表达式，纯网址，供hiwifi-ss插件的白名单用，后续自行添加  
+不直接使用官方的列表：[https://github.com/gfwlist/gfwlist](https://github.com/gfwlist/gfwlist)，而是采用手动增加白名单机制，主要是为了兼容hiwifi-ss插件。  
 ## hiwifi-ss插件简单安装教程：  
+参考：http://www.sunnyrx.com/2017/07/17/Shadowsocks-in-HIWIFI/
 - 打开一个未安装的应用后，得到这样的地址：  
 ```shell
 https://app.hiwifi.com/store.php?m=plugins&a=install&rid=rXXXXXXXXX&sid=XXXXXXXXX
